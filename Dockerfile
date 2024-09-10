@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM leolitaly/sweet-cloud:latest
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
